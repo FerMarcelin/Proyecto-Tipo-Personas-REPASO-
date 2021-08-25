@@ -1,0 +1,7 @@
+.idea/
+Personas/__pycache__/
+TiposPersonas/__pycache__/
+Personas/api/__pycache__/
+Personas/api/serializers/__pycache__/
+Personas/api/views/__pycache__/
+Personas/migrations/__pycache__/

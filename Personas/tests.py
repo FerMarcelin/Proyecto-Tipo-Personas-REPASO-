@@ -61,6 +61,7 @@ print(list)
 list1.append(list)
 print(list1)"""
 
+"""IMPLEMENTACION PARA DESENCRIPTAR CONTRASEÑAS"""
 user = Person.objects.get(email="chris@correo.com")
 print(user.password)
 contrasenia = "enchiladas"
